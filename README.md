@@ -132,8 +132,6 @@ JWT tokens are required for most endpoints. Admin-only routes are protected usin
 ## 🎓 Author
 
 **Rahmi Kutay Özcan**  
-Patika.dev Web Back-End Development Bootcamp Graduate  
-[LinkedIn/GitHub links can be added here]
 
 ---
 
